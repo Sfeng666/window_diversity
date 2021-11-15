@@ -1,7 +1,7 @@
 # Calculate and plot nucleotide diversity in windows across each chromosome
 
 ----
-This program calculates amd plots nucleotide diversity in windows across each chromosome, in order to indirectly reflect regions of different recombination rates.
+This program calculates amd plots nucleotide diversity in windows across each chromosome, in order to indirectly reflect regions of different recombination rates, as well as to investigate whether our demographic inference might be skewed by large regions of low recombination.
 
 ## Steps
 1. Divide each contig into windows using mpileup file of raw allele count;

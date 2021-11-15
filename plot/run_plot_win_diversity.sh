@@ -9,4 +9,4 @@ wd=/home/siyuan/jobs/suzukii_WGS/genetic_diff/window_diversity/plot
 dd=/home/siyuan/jobs/suzukii_WGS/genetic_diff/window_diversity/results
 
 ### 3. run the plotting R script ###
-Rscript $rscript $wd $dd winheter_800_mincov_12_mincount_1 >> run_plot_win_diversity.log 2>&1
+Rscript $rscript $wd $dd winlen_125000_mincov_12_mincount_1 >> run_plot_win_diversity.log 2>&1

@@ -1,0 +1,89 @@
+Chromosomal arm	Contig	Window	Gene ID	Gene Symbol	Flybase ID	Description
+2L	NW_023496800.1	36	108015077	nAChRalpha6	FBgn0032151	acetylcholine receptor subunit alpha-type acr-16 isoform X7
+2L	NW_023496800.1	36	108009656	CG13123	FBgn0032150	transcription factor E4F1
+2L	NW_023496800.1	36	108008288	CG4036	FBgn0032149	alpha-ketoglutarate-dependent dioxygenase alkB homolog 4
+2L	NW_023496800.1	36	108021487	IP3K1	FBgn0032147	inositol-trisphosphate 3-kinase homolog isoform X1
+2L	NW_023496800.1	36	108016906	ppk11	FBgn0065109	pickpocket protein 11
+2L	NW_023496800.1	36	108013411	ppk16	FBgn0065108	sodium channel protein Nach
+2L	NW_023496800.1	36	108021072	ppk18	FBgn0265001	sodium channel protein Nach
+2L	NW_023496800.1	36	108021070	CG17633	FBgn0032144	zinc carboxypeptidase A 1
+2L	NW_023496800.1	36	108021071	CG4017	FBgn0032143	zinc carboxypeptidase
+2L	NW_023496800.1	36	108021069	und	FBgn0283478	methionine aminopeptidase 2
+2L	NW_023496800.1	36	108009116	Taf11	FBgn0011291	transcription initiation factor TFIID subunit 11
+2L	NW_023496800.1	36	108021360	zf30C	FBgn0270924	gastrula zinc finger protein xFG20-1
+2L	NW_023496800.1	36	108005397	Cyp4e3	FBgn0015035	cytochrome P450 4e3
+2L	NW_023496800.1	36	108015667	Nckx30C	FBgn0028704	sodium/potassium/calcium exchanger Nckx30C isoform X1
+2L	NW_023496800.1	36	108015733	CG13117	FBgn0032140	uncharacterized protein LOC108015733
+2L	NW_023496800.1	36	108015724	CG13116	FBgn0032139	uncharacterized protein LOC108015724
+2L	NW_023496800.1	36	108020354	CG4364	FBgn0032138	pescadillo homolog
+2L	NW_023496800.1	36	108020335	pelo	FBgn0011207	protein pelota
+2L	NW_023496800.1	36	108020337	CG31710	FBgn0051710	uncharacterized protein LOC108020337 isoform X1
+2L	NW_023496800.1	36	108009177	hoip	FBgn0286786	NHP2-like protein 1 homolog
+2L	NW_023496800.1	36	108019875	Pka-C1	FBgn0000273	cAMP-dependent protein kinase catalytic subunit 1
+2R	NW_023496807.1	49+50	108010128	luna	FBgn0040765	Krueppel-like factor luna
+2R	NW_023496807.1	49+50	108010129	CG43188	FBgn0262817	uncharacterized protein LOC108010129
+2R	NW_023496807.1	49+50	108008466	Spn47C	FBgn0033574	serine protease inhibitor 42Dd
+2R	NW_023496807.1	49+50	108008173	Obp47a	FBgn0033573	general odorant-binding protein 56a
+2R	NW_023496807.1	49+50	108008800	polyph	FBgn0033572	glutamate transporter polyphemus isoform X2
+2R	NW_023496807.1	49+50	108008634	Rpb5	FBgn0033571	DNA-directed RNA polymerases I, II, and III subunit RPABC1
+2R	NW_023496807.1	49+50	108010082	CG8818	FBgn0033751	uncharacterized protein LOC108010082
+2R	NW_023496807.1	49+50	108010081	CG13151	FBgn0033750	uncharacterized protein LOC108010081
+2R	NW_023496807.1	49+50	108009347	fdl	FBgn0045063	probable beta-hexosaminidase fdl isoform X1
+2R	NW_023496807.1	49+50	108009348	s-cup	FBgn0050044	uncharacterized protein LOC108009348
+2R	NW_023496807.1	49+50	108009349	Dh44-R2	FBgn0033744	diuretic hormone receptor isoform X2
+2R	NW_023496807.1	49+50	108008581	Nepl10	FBgn0033742	endothelin-converting enzyme 2
+2R	NW_023496807.1	49+50	108010158	CG8545	FBgn0033741	25S rRNA (cytosine-C(5))-methyltransferase nop2
+2R	NW_023496807.1	49+50	108009922	dgt5	FBgn0033740	augmin complex subunit dgt5
+2R	NW_023496807.1	49+50	108009923	Lac	FBgn0010238	lachesin
+2R	NW_023496807.1	49+50	108009600	Dyb	FBgn0033739	dystrobrevin beta isoform X4
+2R	NW_023496807.1	49+50	108009601	CG30334	FBgn0050334	small cysteine and glycine repeat-containing protein 3
+2R	NW_023496807.1	49+50	108009760	Tmem18	FBgn0050051	transmembrane protein 18
+2R	NW_023496807.1	49+50	108009759	DUBAI	FBgn0033738	ubiquitin carboxyl-terminal hydrolase 35
+2R	NW_023496807.1	49+50	108008314	Nup54	FBgn0033737	probable nucleoporin Nup54
+2R	NW_023496807.1	49+50	108008315	CG43204	FBgn0262840	uncharacterized protein LOC108008315
+2R	NW_023496808.1	41	108019555	Cpr50Ca	FBgn0033867	uncharacterized protein LOC108019555
+2R	NW_023496808.1	41	108019638	S-Lap7	FBgn0033868	cytosol aminopeptidase
+2R	NW_023496808.1	41	108019682	Cpr50Cb	FBgn0033869	pro-resilin
+2R	NW_023496808.1	41	108019835	stj	FBgn0261041	voltage-dependent calcium channel subunit alpha-2/delta-3 isoform X5
+2R	NW_023496808.1	41	108019872	fl(2)d	FBgn0000662	pre-mRNA-splicing regulator female-lethal(2)D isoform X1
+2R	NW_023496808.1	41	108019649	CG13339	FBgn0033871	uncharacterized protein LOC108019649
+2R	NW_023496808.1	41	108019873	CG6329	FBgn0033872	uncharacterized protein LOC108019873
+2R	NW_023496808.1	41	108019640	CG6337	FBgn0033873	zingipain-1
+2R	NW_023496808.1	41	108019639	CG6347	FBgn0033874	procathepsin L
+2R	NW_023496808.1	41	108019774	CG6357	FBgn0033875	uncharacterized protein LOC108019774
+2R	NW_023496808.1	41	108019777	Syngr	FBgn0033876	synaptogyrin
+2R	NW_023496808.1	41	108019773	CG30484	FBgn0050484	uncharacterized protein LOC108019773 isoform X1
+2R	NW_023496808.1	41	108019772	CG30485	FBgn0050485	uncharacterized protein LOC108019772
+2R	NW_023496808.1	41	108019775	Echs1	FBgn0033879	probable enoyl-CoA hydratase, mitochondrial
+2R	NW_023496808.1	41	108019776	CG6553	FBgn0033880	modular serine protease
+2R	NW_023496808.1	41	108019620	tum	FBgn0086356	rac GTPase-activating protein 1
+2R	NW_023496808.1	41	108019854	Uba3	FBgn0263697	nedd8-activating enzyme E1 catalytic subunit
+2R	NW_023496808.1	41	108019856	CG16935	FBgn0033883	enoyl-[acyl-carrier-protein] reductase, mitochondrial
+2R	NW_023496808.1	41	108019855	CG13344	FBgn0033884	E3 ubiquitin-protein ligase RNF25
+2R	NW_023496808.1	41	108019601	shot	FBgn0013733	dystonin isoform X31
+3R	NW_023496837.1	3	108010826	pygo	FBgn0043900	LOW QUALITY PROTEIN: protein pygopus
+3R	NW_023496837.1	3	108010860	gammaCOP	FBgn0028968	coatomer subunit gamma isoform X3
+3R	NW_023496837.1	3	108010841	nyo	FBgn0039852	uncharacterized protein LOC108010841
+3R	NW_023496837.1	3	108010836	mey	FBgn0039851	LOW QUALITY PROTEIN: uncharacterized protein LOC108010836
+3R	NW_023496837.1	3	108010839	CG11333	FBgn0039850	isochorismatase domain-containing protein 1
+3R	NW_023496837.1	3	108010837	CG11334	FBgn0039849	methylthioribose-1-phosphate isomerase
+3R	NW_023496837.1	3	108010838	Loxl1	FBgn0039848	lysyl oxidase homolog 2A
+3R	NW_023496837.1	3	108010847	Gprk2	FBgn0261988	G protein-coupled receptor kinase 2
+3R	NW_023496837.1	3	108010834	PNPase	FBgn0039846	LOW QUALITY PROTEIN: polyribonucleotide nucleotidyltransferase 1, mitochondrial
+3R	NW_023496837.1	3	108010833	Gcn2	FBgn0019990	LOW QUALITY PROTEIN: eIF-2-alpha kinase GCN2
+3R	NW_023496837.1	3	108010802	Ugt35D1	FBgn0051002	LOW QUALITY PROTEIN: UDP-glycosyltransferase UGT5
+X	NW_023496846.1	20	118878367	Pp2B-14D	FBgn0011826	serine/threonine-protein phosphatase 2B catalytic subunit 2
+X	NW_023496846.1	20	108011159	Arp2	FBgn0011742	actin-related protein 2 isoform X1
+X	NW_023496846.1	20	108011120	CG9903	FBgn0030756	P3 protein
+X	NW_023496846.1	20	108011109	para	FBgn0285944	sodium channel protein para isoform X2
+X	NW_023496846.1	20	108011158	eIF4H1	FBgn0262734	eukaryotic translation initiation factor 4H isoform X2
+X	NW_023496846.1	20	108005234	CG34015	FBgn0054015	histidine triad nucleotide-binding protein 3
+X	NW_023496846.1	20	108005426	eIF2alpha	FBgn0261609	eukaryotic translation initiation factor 2 subunit 1
+X	NW_023496846.1	20	108005425	rngo	FBgn0030753	protein DDI1 homolog 2
+X	NW_023496846.1	20	108005387	goe	FBgn0027528	protein gone early isoform X1
+X	NW_023496846.1	20	108005100	Twdlalpha	FBgn0052574	keratin, type I cytoskeletal 9
+X	NW_023496846.1	20	108005101	TwdlZ	FBgn0052569	uncharacterized protein LOC108005101
+X	NW_023496846.1	20	108005392	TwdlY	FBgn0052570	uncharacterized protein LOC108005392
+X	NW_023496846.1	20	108005391	TwdlX	FBgn0052571	uncharacterized protein LOC108005391
+X	NW_023496846.1	20	108005107	CG32572	FBgn0052572	uncharacterized protein LOC108005107
+X	NW_023496846.1	20	108005482	CG34325	FBgn0085354	transforming growth factor beta-1-induced transcript 1 protein isoform X2

@@ -9,6 +9,7 @@ This program calculates amd plots nucleotide diversity in windows across each ch
 3. plot the distribution of window diversity of each chromosome arm for selected samples;
 4. label the window of the lowest diversity within each contig;
 5. gernerate lists of gene symbols of genes in those windows.
+6. plot genes within those windows along with window diversity.
 
 ## Notes
 1. The window is defined as a continuous genomic region that include 250000 filtered sites.

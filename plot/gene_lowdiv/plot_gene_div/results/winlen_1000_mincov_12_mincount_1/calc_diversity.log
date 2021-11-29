@@ -1,0 +1,13 @@
+### Whole job starts ###
+
+### Estimation of window-based nucleotide diversity starts ###
+
+nucleotide diversity calculated from /home/siyuan/jobs/suzukii_WGS/call_snp/amb/updated_poolsnp/paratest/test_maxcov/call_snp_maxcov_99/mincov_12_mincount_1/NW_023496846.1_snp_clean.vcf at chromosome arm X
+nucleotide diversity calculated from /home/siyuan/jobs/suzukii_WGS/call_snp/amb/updated_poolsnp/paratest/test_maxcov/call_snp_maxcov_99/mincov_12_mincount_1/NW_023496837.1_snp_clean.vcf at chromosome arm 3R
+nucleotide diversity calculated from /home/siyuan/jobs/suzukii_WGS/call_snp/amb/updated_poolsnp/paratest/test_maxcov/call_snp_maxcov_99/mincov_12_mincount_1/NW_023496808.1_snp_clean.vcf at chromosome arm 2R
+nucleotide diversity calculated from /home/siyuan/jobs/suzukii_WGS/call_snp/amb/updated_poolsnp/paratest/test_maxcov/call_snp_maxcov_99/mincov_12_mincount_1/NW_023496800.1_snp_clean.vcf at chromosome arm 2L
+nucleotide diversity calculated from /home/siyuan/jobs/suzukii_WGS/call_snp/amb/updated_poolsnp/paratest/test_maxcov/call_snp_maxcov_99/mincov_12_mincount_1/NW_023496807.1_snp_clean.vcf at chromosome arm 2R
+### Estimation of nucleotide diversity ends ###
+
+### Whole job done ###
+
